@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Massively: The Jekyll Theme!"
-date:   2017-10-31
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
+title:  "Bienvenidos a Agencia de viajes Villegas!"
+date:   2022-03-26
+excerpt: "Le agradecemos su preferencia al elegir nuestros servicios"
 image: "/images/pic02.jpg"
 ---
 
